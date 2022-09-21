@@ -1,2 +1,1 @@
-# devoir_numerique_electromag
-c'est l'ensemble des codes que l'on réaliser sur la méthode de relaxation dans le cours d'électromagnétisme pour le devoir numérique
+Un ensemble de codes utilisant la méthode de relaxation afin de résoudre la valeur du potentiel électromagnétique.
