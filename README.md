@@ -1,1 +1,1 @@
-Un ensemble de codes utilisant la méthode de relaxation afin de résoudre la valeur du potentiel électromagnétique.
+Algorithms using relaxation methods to solve an electromagnetism problem.
